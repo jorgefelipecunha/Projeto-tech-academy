@@ -58,6 +58,12 @@ header .container img {
   height: 30px;
 }
 /*=============== 
+add por vc gabriel
+==================*/
+#checkbox-menu {
+  display:none;
+}
+/*=============== 
 Main do inscreva-se
 ==================*/
 main {
